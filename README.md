@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+Hi Humans!
+
+Nayan Kanchan here ,  i love coding and to write programs
